@@ -7,8 +7,8 @@ module OmniAuth
 
       option :client_options, {
         :site => 'https://api.bukalapak.com',
-        :authorize_url => 'https://www.bukalapak.com/oauth/authorize',
-        :token_url => 'https://www.bukalapak.com/oauth/access_token'
+        :authorize_url => 'https://accounts.bukalapak.com/oauth/authorize',
+        :token_url => 'https://accounts.bukalapak.com/oauth/token'
       }
 
       def request_phase

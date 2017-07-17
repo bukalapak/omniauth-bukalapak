@@ -15,8 +15,8 @@ describe OmniAuth::Strategies::Bukalapak do
 
   context "client options" do
     it { expect(subject.options.client_options.site).to eq('https://api.bukalapak.com') }
-    it { expect(subject.options.client_options.authorize_url).to eq('https://www.bukalapak.com/oauth/authorize') }
-    it { expect(subject.options.client_options.token_url).to eq('https://www.bukalapak.com/oauth/access_token') }
+    it { expect(subject.options.client_options.authorize_url).to eq('https://accounts.bukalapak.com/oauth/authorize') }
+    it { expect(subject.options.client_options.token_url).to eq('https://accounts.bukalapak.com/oauth/token') }
   end
 
   context "#id" do
