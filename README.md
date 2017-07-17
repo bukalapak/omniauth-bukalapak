@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/bukalapak/omniauth-bukalapak.svg?branch=master)](https://travis-ci.org/bukalapak/omniauth-bukalapak)
 [![Code Climate](https://codeclimate.com/github/bukalapak/omniauth-bukalapak/badges/gpa.svg)](https://codeclimate.com/github/bukalapak/omniauth-bukalapak)
+[![Gem](https://img.shields.io/gem/v/omniauth-bukalapak.svg)](https://rubygems.org/gems/omniauth-bukalapak)
 
 Official OmniAuth strategy for authenticating with [Bukalapak](https://www.bukalapak.com).
 
