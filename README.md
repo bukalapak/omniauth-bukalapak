@@ -5,10 +5,6 @@
 
 Official OmniAuth strategy for authenticating with [Bukalapak](https://www.bukalapak.com).
 
-## Status
-
-**WIP**
-
 ## Installation
 
 Add this line to your application's Gemfile:
